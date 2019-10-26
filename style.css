@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: #3f3f3f;
+}
+
+#passwordText {
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+    margin: 1em;
+    margin-bottom: 3em;
+}
+
+#password {
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+    height: 4em;
+    border: dashed #e7e6e6;
+}
+
+body {
+    background-color: #f7f7f7;
+    font-family: 'Roboto', sans-serif;
+}
+
+#content {
+    border: 2px solid #f7f7f7;
+    background-color: #ffffff;
+    border-radius: 25px;
+    box-shadow: 2px 3px 2px 3px #f1f1f1;
+}
+
+hr {
+    margin: none;
+    padding: none;
+}
+
+h2 {
+    margin-top: 50px;
+    color: #3f3f3f;
+}
